@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": "Reading between the lines.",
+    "icon": {
+      "item": "minecraft:beehive"
+    },
+    "show_toast": false,
+    "title": "Beehive Tooltips"
+  },
+  "parent": "global:zerotask"
+}
