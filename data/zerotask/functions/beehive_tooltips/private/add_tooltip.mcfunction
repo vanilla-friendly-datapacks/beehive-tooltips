@@ -27,4 +27,4 @@ execute as @s[nbt={Item: {tag: {BlockStateTag: {honey_level: "3"}}}}] run data m
 execute as @s[nbt={Item: {tag: {BlockStateTag: {honey_level: "4"}}}}] run data modify entity @s Item.tag.display.Lore append value '{"text":"Honey Level: 4","color":"yellow","italic":"false"}'
 execute as @s[nbt={Item: {tag: {BlockStateTag: {honey_level: "5"}}}}] run data modify entity @s Item.tag.display.Lore append value '{"text":"Honey Level: 5","color":"yellow","italic":"false"}'
 
-tag @s add zt.beehiveWithTooltip
+tag @s add zerotask.beehiveWithTooltip
