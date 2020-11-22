@@ -13,7 +13,7 @@ case "$pack_version" in
     echo ::set-output name=MC_VERSION::"1.11-1.12.2"
     ;;
   4 )
-    echo ::set-output name=MC_VERSION::"1.13.1.14.4"
+    echo ::set-output name=MC_VERSION::"1.13-1.14.4"
     ;;
   5 )
     echo ::set-output name=MC_VERSION::"1.15-1.16.1"
