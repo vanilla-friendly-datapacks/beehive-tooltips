@@ -8,6 +8,10 @@ Download the latest release from [here][latest] and put the datapack zip file in
 
 I usually provide resourcepacks to allow translations of my datapacks :)
 
+## Uninstallation
+
+To uninstall the datapack, run the `zerotask:beehive-tooltips/uninstall` function and remove the datapack from your world save. Afterwards, run `reload`.
+
 ## License
 
 The data pack is licensed under the GPLv3. For more information, take a look at the license file within this repository.
