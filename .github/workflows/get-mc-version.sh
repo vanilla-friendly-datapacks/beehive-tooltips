@@ -21,4 +21,7 @@ case "$pack_version" in
   6 )
     echo ::set-output name=MC_VERSION::"1.16.2-1.16.3"
     ;;
+  7 )
+    echo ::set-output name=MC_VERSION::"1.17"
+    ;;
 esac
