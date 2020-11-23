@@ -1,3 +1,5 @@
+![Stamp of Quality Banner](https://i.imgur.com/ltLPoQp.png "Stamp of Quality")
+
 # Beehive Tooltips
 
 > A Minecraft 1.16.x data pack that adds tooltips to beehives and bee nests.
